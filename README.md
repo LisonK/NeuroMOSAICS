@@ -1,5 +1,7 @@
 # NeuroMOISAICS paper
 
+[![status](https://neurolibre.org/papers/7a76a602b8a61bd7c28a5ca947a87ab9/status.svg)](https://neurolibre.org/papers/7a76a602b8a61bd7c28a5ca947a87ab9)
+
 This living preprint introduces NeuroMOSAICS dataset (Neurostimulation Multi-scale Open-Source Across Interface, Conditions & Species), a collection of open-access datasets comprising a wide range of different neurostimulation scenarios: in rats and non-human primates (NHP), in sedated and awake animals, in intact and injured subjects, in small and large input spaces optimization, and in both cortical and spinal neurostimulation interventions. NeuroMOSAICS aims to support the development of neurostimulation optimization algorithms. This collection is an attempt to regroup and valorize all neurostimulation characterization datasets opened by the community. This collaborative effort would not only allow the training and testing of data-demanding algorithms, but also make valuable knowledge accessible to a broader audience, thereby encouraging the ML community to develop algorithms suited to neurostimulation problems. 
 
 # Data sources 
